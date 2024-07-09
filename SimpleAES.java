@@ -348,6 +348,7 @@ public class SimpleAES {
 
         }
         System.out.println();
+        System.out.printf("1");
     }
 }
 
